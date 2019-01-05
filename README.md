@@ -1,6 +1,7 @@
 ## WIREDELAY
 
-A simple wiredelay simulator used for simulating on a PCB.
+A simple wiredelay simulator used for simulating signal propagation delay in
+traces on a PCB.
 
 Parameters
 
